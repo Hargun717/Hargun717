@@ -24,7 +24,6 @@ I’m a **Data & AI enthusiast** based in **Canada**, passionate about building 
 - **Stockify** – Smart portfolio allocation using **Reinforcement Learning** for tech stocks  
 - **Mango Leaf Disease Detection** – AI model for detecting diseases in mango leaves  
 - **Hospital Sentiment Analysis** – Sentiment analysis of hospital reviews to improve patient experience
-- 
 ---
 
 ## 📫 Connect with me
