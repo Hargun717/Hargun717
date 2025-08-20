@@ -28,7 +28,7 @@ I’m a **Data & AI enthusiast** based in **Canada**, passionate about building 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HargunSingh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hargun-singh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HargunSingh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hargun-lamba/)  
 
 ---
 
