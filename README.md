@@ -24,12 +24,7 @@ I’m a **Data & AI enthusiast** based in **Canada**, passionate about building 
 - **Stockify** – Smart portfolio allocation using **Reinforcement Learning** for tech stocks  
 - **Mango Leaf Disease Detection** – AI model for detecting diseases in mango leaves  
 - **Hospital Sentiment Analysis** – Sentiment analysis of hospital reviews to improve patient experience
-
----
-
-## 📈 GitHub Stats
-![Hargun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hargun-singh&show_icons=true&theme=radical)
-
+- 
 ---
 
 ## 📫 Connect with me
