@@ -16,9 +16,9 @@ I enjoy turning complex datasets into actionable insights that support **strateg
 
 | Programming Languages | Visualization & BI Tools | Databases & Cloud |
 |----------------------|-------------------------|-----------------|
-| Python, SQL, R, Power Query | Power BI, Tableau, Excel | MySQL, PostgreSQL, Oracle, BigQuery |
-| Bash/Shell scripting | Jupyter, VSCode | Azure DevOps, AWS, Google Cloud, Jira, Confluence |
+| Python, SQL, R | Power BI, Tableau | MySQL, PostgreSQL, BigQuery |
 | Frameworks & Libraries | ML & AI | TensorFlow, PyTorch, Scikit-Learn, PySpark |
+| Cloud & Tools | Jupyter, VSCode | AWS, Azure, Google Cloud |
 
 ---
 
